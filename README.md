@@ -1,6 +1,6 @@
 # energy-kernel
 Study of Energy Simulation Kernel
-[linkinghub.elsevier.com/retrieve/pii/S1569190X19301455](linkinghub.elsevier.com/retrieve/pii/S1569190X19301455)
+[https://doi.org/10.1016/j.simpat.2019.102012](https://doi.org/10.1016/j.simpat.2019.102012)
 
 Gabriel García Castañé    - gabriel.gonzalezcastane AT ucc.ie <br>
 Alejandro Calderón Mateos - acaldero AT inf.uc3m.es
